@@ -45,10 +45,10 @@ var css = csjs`
 
 
 var element = bel`
-  <div class=${css['webpage']}>
-    <div class=${css['first-div']}>
-      <h1 class="${css['first-div-title']}> Walt Disney </h1>
-        <h3 class=${css['first-div-subtitle']}> 
+  <div class="${css['webpage']}">
+    <div class="${css['first-div']}">
+      <h1 class="${css['first-div-title']}"> Walt Disney </h1>
+        <h3 class="${css['first-div-subtitle']}"> 
           " It is kind of fun to do the impossible. "
         </h3>
     </div>
@@ -66,10 +66,10 @@ var element = bel`
       <li><strong>	2006–09: </strong> Rebound, Disney's acquisition of Pixar, renaming</li>
       <li><strong> 2010–present: </strong> Continued resurgence</li>
     </ul>
-    <h4  class=${css['second-div-title']} >Read more
+    <h4  class="${css['second-div-title']}">Read more
       <a href="https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios"> Wikipedia Page</a>
     </h4>
-    <div class=${css['footer']}>
+    <div class="${css['footer']}">
           Coded by Michelle | A Free Code Camp Project      
     </div>
   </div>
