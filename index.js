@@ -21,7 +21,7 @@ var css = csjs`
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    font-size: 130px;
+    font-size: 30px;
   }
   .first-div-subtitle {
     color: #fff;
