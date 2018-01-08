@@ -5,7 +5,7 @@ document.title = "Walt Disney Tribute Page"
 
 var css = csjs`
   html {
-    font-size: 30px;
+    font-size: 50px;
   }
   .first-div {
     background-color: #000;
